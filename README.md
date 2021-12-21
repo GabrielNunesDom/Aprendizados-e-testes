@@ -10,7 +10,9 @@
 
 Fazer um sistema de compras para bilhetes de uma rodoviária utilizando JavaScript.
 
-# 2º Iniciação ao Node Js
+# Testes e revisão da programação com Java!
+
+Data para FINALIZAR o projeto da Rest API: 21/12
 
 
 
