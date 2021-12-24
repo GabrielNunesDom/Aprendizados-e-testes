@@ -14,5 +14,7 @@ Fazer um sistema de compras para bilhetes de uma rodoviária utilizando JavaScri
 
 Data para FINALIZAR o projeto da Rest API: 21/12
 
+Atualizações do projeto: necessidade de reaprender alguns conteúdos e fazer uma segunda tentativa com maior sucesso.
+
 
 
