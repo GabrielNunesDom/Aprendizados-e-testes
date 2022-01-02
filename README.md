@@ -16,5 +16,8 @@ Data para FINALIZAR o projeto da Rest API: 21/12
 
 Atualizações do projeto: necessidade de reaprender alguns conteúdos e fazer uma segunda tentativa com maior sucesso.
 
+Objetivos de ano novo: revisar as bases de lógica de programação e aprender a otimizar as postagens do Github.
+
+
 
 
